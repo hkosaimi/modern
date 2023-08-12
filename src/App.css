@@ -5,17 +5,17 @@
   box-sizing: border-box;
 }
 body {
-  background: linear-gradient(to top left, rgb(0, 0, 0), rgb(46, 46, 46))
+  background: linear-gradient(to top left, rgb(0, 0, 0), rgb(84, 83, 83))
     no-repeat;
 }
 .container {
-  padding: 4rem 3rem;
+  padding: 4rem 2rem;
 }
 
 .container__top {
-  width: 300px;
+  width: 100%;
   line-height: 58px;
-  font-size: 35px;
+  font-size: 30px;
   font-family: "Archivo Black";
 }
 .container__top h1:nth-child(1) {
