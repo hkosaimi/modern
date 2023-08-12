@@ -7,13 +7,13 @@
 body {
   background: linear-gradient(to top left, rgb(0, 0, 0), rgb(84, 83, 83))
     no-repeat;
+  height: 100vh;
 }
 .container {
   padding: 4rem 2rem;
 }
 
 .container__top {
-  width: 100%;
   line-height: 58px;
   font-size: 30px;
   font-family: "Archivo Black";
