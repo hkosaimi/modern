@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hjosaimi.github.io/modern/static/css/main.92b75556.css",
+    "main.js": "/hjosaimi.github.io/modern/static/js/main.8f658cde.js",
+    "index.html": "/hjosaimi.github.io/modern/index.html",
+    "main.92b75556.css.map": "/hjosaimi.github.io/modern/static/css/main.92b75556.css.map",
+    "main.8f658cde.js.map": "/hjosaimi.github.io/modern/static/js/main.8f658cde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b75556.css",
+    "static/js/main.8f658cde.js"
+  ]
+}
