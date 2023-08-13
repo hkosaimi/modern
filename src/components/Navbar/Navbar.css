@@ -1,0 +1,41 @@
+.Navbar {
+  display: flex;
+  flex-direction: column;
+  font-family: "Archivo Black";
+  padding: 0 2rem;
+  line-height: 20px;
+}
+.Navbar ul li {
+  list-style: none;
+}
+.Navbar ul li a {
+  transition: color 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+}
+.Navbar ul li a:hover {
+  color: #eb4f43;
+}
+
+.child {
+  color: #eb4f43 !important;
+}
+
+.home__social {
+  margin-top: 1rem;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+}
+
+.home__social svg {
+  transition: color 0.4s;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.home__social svg:hover {
+  cursor: pointer;
+  color: #eb4f43;
+}
