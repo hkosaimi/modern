@@ -9,33 +9,3 @@ body {
     no-repeat;
   height: 100vh;
 }
-.container {
-  padding: 4rem 2rem;
-}
-
-.container__top {
-  line-height: 58px;
-  font-size: 30px;
-  font-family: "Archivo Black";
-}
-.container__top h1:nth-child(1) {
-  color: #eb4f43;
-}
-.container__top h1:nth-child(2) {
-  color: #fff;
-}
-
-.container__navbar {
-  margin-top: 3rem;
-  display: flex;
-  flex-direction: column;
-  font-family: "Archivo Black";
-  color: #fff;
-}
-.container__navbar p a {
-  transition: color 0.4s;
-  cursor: pointer;
-}
-.container__navbar p a:hover {
-  color: #eb4f43;
-}
