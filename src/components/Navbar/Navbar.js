@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <div className="Navbar">
+    <div className="navbar">
       <ul>
         <li>
           <Link to="/" className="child">
@@ -30,6 +30,11 @@ function Navbar() {
         <BiLogoSnapchat />
         <AiFillInstagram />
         <IoLogoWhatsapp />
+      </div>
+      <div className="navbar__madeby">
+        <p>
+          Created by <span>Hussain Al-Osaimi</span>
+        </p>
       </div>
     </div>
   );
