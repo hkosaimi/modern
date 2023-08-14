@@ -4,6 +4,7 @@
   font-size: 30px;
   font-family: "Archivo Black";
   animation: animate 1s linear;
+  height: 100vh;
 }
 
 .vision h1:nth-child(1) {

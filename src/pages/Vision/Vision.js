@@ -7,9 +7,8 @@ function Vision() {
     <>
       <div className="vision">
         <h1>VISION</h1>
+        <Navbar />
       </div>
-
-      <Navbar />
     </>
   );
 }
