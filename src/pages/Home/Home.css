@@ -4,6 +4,8 @@
   font-size: 30px;
   font-family: "Archivo Black";
   animation: animate 1s linear;
+  /*   position: relative;
+ */
 }
 .home h1:nth-child(1) {
   color: #eb4f43;
@@ -12,6 +14,19 @@
   color: #fff;
 }
 
+.home__madeby {
+  text-align: center;
+  color: #fff;
+  font-family: "Archivo Black";
+  font-size: 10px;
+  position: fixed;
+  left: -66px;
+  top: 300px;
+  transform: rotate(270deg);
+}
+.home__madeby span {
+  color: #eb4f43;
+}
 @keyframes animate {
   from {
     transform: translateX(-100px);

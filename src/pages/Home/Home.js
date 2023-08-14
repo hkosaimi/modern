@@ -10,6 +10,11 @@ function Home() {
           <h1>USE THINGS. THE OPPOSITE NEVER WORKS.</h1>
         </div>
       </div>
+      <div className="home__madeby">
+        <p>
+          Created by <span>Hussain Al-Osaimi</span>
+        </p>
+      </div>
       <Navbar />
     </>
   );

@@ -31,11 +31,11 @@ function Navbar() {
         <AiFillInstagram />
         <IoLogoWhatsapp />
       </div>
-      <div className="navbar__madeby">
+      {/*  <div className="navbar__madeby">
         <p>
           Created by <span>Hussain Al-Osaimi</span>
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
