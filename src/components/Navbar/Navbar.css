@@ -36,8 +36,10 @@
 }
 
 .home__social svg {
+  font-size: 20px;
   transition: color 0.4s;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  /*   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+ */
 }
 .home__social svg:hover {
   cursor: pointer;

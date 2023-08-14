@@ -10,3 +10,6 @@
 .vision h1:nth-child(1) {
   color: #eb4f43;
 }
+.vision h1:nth-child(2) {
+  color: #fff;
+}
