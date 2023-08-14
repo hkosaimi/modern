@@ -5,8 +5,6 @@
   font-family: "Archivo Black";
   animation: animate 1s linear;
   height: 100vh;
-  /*   position: relative;
- */
 }
 .home h1:nth-child(1) {
   color: #eb4f43;

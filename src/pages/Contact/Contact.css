@@ -19,11 +19,12 @@
 .contact span {
   color: #eb4f43;
 }
-.contatus {
-  line-height: 40px;
+.contact__info {
+  line-height: 25px;
   margin-top: 30px;
 }
 
 .map {
   text-align: center;
+  margin-top: 30px;
 }

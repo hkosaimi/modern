@@ -9,18 +9,17 @@ function Contact() {
       <div className="contact">
         <h1>CONTACT</h1>
         <h1>We're happy to hear from you soon.</h1>
-        <div className="contatus">
+        <div className="contact__info">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in
+            reprehenderit in voluptate.
+          </p>
           <p>
             E-mail: <span>hkosaimi@gmail.com</span>
           </p>
-          <p>Or via our social media accounts:</p>
-          <div className="home__social">
-            <BiLogoTwitter />
-            <BiLogoYoutube />
-            <BiLogoSnapchat />
-            <AiFillInstagram />
-            <IoLogoWhatsapp />
-          </div>
         </div>
         <div className="map">
           <iframe
