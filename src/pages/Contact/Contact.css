@@ -9,3 +9,17 @@
 .contact h1:nth-child(1) {
   color: #eb4f43;
 }
+.contact h1:nth-child(2) {
+  color: #fff;
+}
+.contact p {
+  color: #fff;
+  font-size: 18px;
+}
+.contact span {
+  color: #eb4f43;
+}
+.contatus {
+  line-height: 40px;
+  margin-top: 30px;
+}

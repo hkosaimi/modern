@@ -4,8 +4,6 @@
   font-family: "Archivo Black";
   padding: 0 2rem;
   line-height: 20px;
-  position: fixed;
-  top: calc(100% - 150px);
   width: 100%;
 }
 .navbar ul li {
