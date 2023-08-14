@@ -4,6 +4,9 @@
   font-family: "Archivo Black";
   padding: 0 2rem;
   line-height: 20px;
+  position: fixed;
+  top: calc(100% - 150px);
+  width: 100%;
 }
 .Navbar ul li {
   list-style: none;
@@ -21,6 +24,9 @@
 
 .child {
   color: #eb4f43 !important;
+}
+.whity {
+  color: #fff !important;
 }
 
 .home__social {

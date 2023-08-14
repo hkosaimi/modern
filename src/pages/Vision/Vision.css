@@ -1,4 +1,4 @@
-.contact {
+.vision {
   padding: 4rem 2rem;
   line-height: 58px;
   font-size: 30px;
@@ -6,6 +6,6 @@
   animation: animate 1s linear;
 }
 
-.contact h1:nth-child(1) {
+.vision h1:nth-child(1) {
   color: #eb4f43;
 }
